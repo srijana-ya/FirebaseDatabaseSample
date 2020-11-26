@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseDbSample</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="Name">name</string>
+    <string name="Button">button</string>
+</resources>
