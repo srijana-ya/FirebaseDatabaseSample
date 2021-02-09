@@ -5,10 +5,15 @@
     <string name="Name">name</string>
     <string name="Button">button</string>
     <string name="selected_item">Selected item:</string>
-    <string name="select_language">Select language:</string>
+    <string name="select_language">Select a water source:</string>
+    <string name="hint">Hint</string>
+    <string name="submitted_source">Submitted Water Source:</string>
 
-    <string-array name="Languages">
-        <item>Java</item>
-        <item>Kotlin</item>
+    <string-array name="WaterSource">
+        <item>Lake</item>
+        <item>Bore Well</item>
+        <item>Effluent</item>
+        <item>Rain</item>
+        <item>River</item>
     </string-array>
 </resources>

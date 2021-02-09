@@ -1,3 +1,3 @@
 package com.example.firebasedbsample
 
-class Hero(val id: String, val name: String, val rating: Int)
+class Result(val id: String, val name: String,  val waterSource: String, val rating: Int)
