@@ -8,6 +8,10 @@
     <string name="select_language">Select a water source:</string>
     <string name="hint">Hint</string>
     <string name="submitted_source">Submitted Water Source:</string>
+    <string name="logout">Logout</string>
+    <string name="google_login">Google Login</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+
 
     <string-array name="WaterSource">
         <item>Lake</item>
